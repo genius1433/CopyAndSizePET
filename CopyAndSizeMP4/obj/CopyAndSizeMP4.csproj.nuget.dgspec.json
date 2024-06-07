@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marin\\source\\repos\\CopyAndSizeMP4\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj": {}
+    "C:\\Users\\marin\\Source\\Repos\\CopyAndSizePET\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marin\\source\\repos\\CopyAndSizeMP4\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj": {
+    "C:\\Users\\marin\\Source\\Repos\\CopyAndSizePET\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marin\\source\\repos\\CopyAndSizeMP4\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj",
+        "projectUniqueName": "C:\\Users\\marin\\Source\\Repos\\CopyAndSizePET\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj",
         "projectName": "CopyAndSizeMP4",
-        "projectPath": "C:\\Users\\marin\\source\\repos\\CopyAndSizeMP4\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj",
+        "projectPath": "C:\\Users\\marin\\Source\\Repos\\CopyAndSizePET\\CopyAndSizeMP4\\CopyAndSizeMP4.csproj",
         "packagesPath": "C:\\Users\\marin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marin\\source\\repos\\CopyAndSizeMP4\\CopyAndSizeMP4\\obj\\",
+        "outputPath": "C:\\Users\\marin\\Source\\Repos\\CopyAndSizePET\\CopyAndSizeMP4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
