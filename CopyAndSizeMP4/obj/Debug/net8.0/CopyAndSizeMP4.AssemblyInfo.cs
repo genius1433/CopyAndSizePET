@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyAndSizeMP4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ee226380a2312a967e9dc33d80dd7ec0308825")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff90170144a18d4edf058b089f3d97cfa09f469")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyAndSizeMP4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyAndSizeMP4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
